@@ -4,7 +4,7 @@
 # Change Log: (Who, When, What)
 # DBiesinger, 2030-Jan-01, created file
 # DBiesinger, 2030-Jan-01, added pseudocode to complete assignment 08
-# Bill McGinty, 2022-Mar-20, Modified File to add functionality
+# Bill McG..., 2022-Mar-20, Modified File to add functionality
 #-----------------------------------------------------------------------#
 
 import sys
